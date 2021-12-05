@@ -11,7 +11,6 @@
 		24495DEC275CE8E0005D7E3D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24495DEB275CE8E0005D7E3D /* ContentView.swift */; };
 		24495DEE275CE8E1005D7E3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24495DED275CE8E1005D7E3D /* Assets.xcassets */; };
 		24495DF1275CE8E1005D7E3D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24495DF0275CE8E1005D7E3D /* Preview Assets.xcassets */; };
-		247DB754275CF49800A59EAF /* DemoFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 247DB753275CF49800A59EAF /* DemoFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +19,6 @@
 		24495DEB275CE8E0005D7E3D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		24495DED275CE8E1005D7E3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24495DF0275CE8E1005D7E3D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		247DB753275CF49800A59EAF /* DemoFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +52,6 @@
 			isa = PBXGroup;
 			children = (
 				24495DE9275CE8E0005D7E3D /* DrawingApp.swift */,
-				247DB753275CF49800A59EAF /* DemoFile.swift */,
 				24495DEB275CE8E0005D7E3D /* ContentView.swift */,
 				24495DED275CE8E1005D7E3D /* Assets.xcassets */,
 				24495DEF275CE8E1005D7E3D /* Preview Content */,
@@ -140,7 +137,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				247DB754275CF49800A59EAF /* DemoFile.swift in Sources */,
 				24495DEC275CE8E0005D7E3D /* ContentView.swift in Sources */,
 				24495DEA275CE8E0005D7E3D /* DrawingApp.swift in Sources */,
 			);
